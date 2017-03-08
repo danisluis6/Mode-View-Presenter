@@ -1,7 +1,7 @@
 <resources>
     <!-- Theme for Activity Main in Android -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-
+        <item name="android:statusBarColor"></item>
     </style>
 
     <!-- Theme for Activity Login in Android -->
