@@ -28,5 +28,13 @@
 		
 	=> READ MORE: https://code.tutsplus.com/tutorials/quick-tip-using-butter-knife-to-inject-views-on-android--cms-23542
 
+	https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html
+
 ##Create Application Android That demonstrate MVP Android
+
+	Example about Login in Android
+##----------------------------------------------$$
+
+
+
 
