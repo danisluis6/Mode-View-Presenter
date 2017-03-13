@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">App</string>
+    <string name="login_email">Email</string>
+    <string name="login_pass">Password</string>
+    <string name="login_rememberme">Forgot Password?</string>
+    <string name="login_btn">Login</string>
 </resources>
