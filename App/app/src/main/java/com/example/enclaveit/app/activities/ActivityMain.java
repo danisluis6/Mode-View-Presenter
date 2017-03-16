@@ -3,6 +3,8 @@ package com.example.enclaveit.app.activities;
 import android.app.Activity;
 import android.os.Bundle;
 
+import vn.enclave.app.R;
+
 
 public class ActivityMain extends Activity {
 
