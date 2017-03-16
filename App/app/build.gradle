@@ -25,5 +25,17 @@ dependencies {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
     compile 'com.android.support:appcompat-v7:25.0.1'
+    compile 'com.android.support:appcompat-v7:25.0.1'
+    compile 'com.android.support:design:25.0.1'
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:multidex:1.0.0'
+    /*Using GMap*/
+    compile 'com.google.android.gms:play-services:10.0.1'
+
+    /*Using Some Libraries for create Timetable*/
+    //Using Week-View
+    compile 'com.github.alamkanak:android-week-view:1.2.6'
+    /*For using Bar chart*/
+    compile 'com.github.PhilJay:MPAndroidChart:v2.1.6'
     testCompile 'junit:junit:4.12'
 }
